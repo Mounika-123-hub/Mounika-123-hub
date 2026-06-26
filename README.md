@@ -24,18 +24,25 @@ I am a Computer Science student passionate about Full Stack Development and Clou
 - AWS
 - Git & GitHub
 
+## Internship Experience
 
-## 📌 Internship Project
+During my internship, I worked with a MERN Stack project called **SB Works (Freelancing Application)**. The project was provided by my mentors to help me understand the structure of a full-stack application.
 
-### FreelanceFinder (Internship Learning Project)
+Through this internship, I learned:
+- MERN project structure
+- React frontend basics
+- Node.js and Express backend basics
+- MongoDB basics
+- Git & GitHub workflow
 
-During my internship, I was introduced to a MERN Stack project called FreelanceFinder. My mentors provided the project to help me understand how a full-stack web application is organized.
+I am continuing to improve my full-stack development skills by learning and building projects.
 
-Through this project, I learned:
-- MERN project folder structure
-- Basic Git and GitHub usage
-- How frontend and backend are connected
-- How a team project is organized
+## Currently Learning
+
+- MERN Stack
+- AWS
+- Data Structures & Algorithms
+
 
 I am continuing to learn and improve my understanding of MERN Stack development.
 Email: ma9543492@gmail.com
