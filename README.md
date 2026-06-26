@@ -1,4 +1,4 @@
-## Hi there 👋# Hi 👋 I'm Mounika Bhavani Atthi
+## Hi there 👋 I'm Mounika Bhavani Atthi
 
 🎓 Computer Science Student
 
